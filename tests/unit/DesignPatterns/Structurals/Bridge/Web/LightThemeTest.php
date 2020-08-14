@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\DesignPatterns\Bridge\Web;
+namespace Test\Unit\DesignPatterns\Bridge\Web;
 
 use App\DesignPatterns\Structurals\Bridge\Web\LightTheme;
 use App\DesignPatterns\Structurals\Bridge\Web\Home;

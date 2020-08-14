@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\DesignPatterns\Comportamentals\State\TextEditor;
+namespace Test\Unit\DesignPatterns\Comportamentals\State\TextEditor;
 
 use App\DesignPatterns\Comportamentals\State\TextEditor\Lowercase;
 use App\DesignPatterns\Comportamentals\State\TextEditor\TextEditor;
