@@ -1,0 +1,17 @@
+{
+    "name": "root/conceitos-orientacao-objetos-e-design-patterns",
+    "authors": [
+        {
+            "name": "Cristiano Junior",
+            "email": "cristiano-junior10@outlook.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
