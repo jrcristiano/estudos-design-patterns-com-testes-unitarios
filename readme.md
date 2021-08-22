@@ -26,7 +26,7 @@
 
     - Princípio de segregação de interface: um mantra que representa bem esse princípio é: "Clientes não devem ser forçados a depender de interfaces que eles não irão usar", pensando nisso podemos concluir que em vez de fazer grandes interfaces, podemos aplicar o princípio da respons. única aqui também criando interfaces somente com as assinaturas necessárias para evitar uma complexidade posterior.
 
-    - Princípio da inversão de dependência: o princípio da inversão de dependência refere-se à dissociação de módulos de software. Dessa forma, em vez de módulos de alto nível, dependendo de módulos de baixo nível, ambos dependerão de abstrações.
+    - Princípio da inversão de dependência: o princípio da inversão de dependência refere-se à dissociação de módulos de software. Dessa forma, em vez de módulos de alto nível dependendo de módulos de baixo nível, ambos dependerão de abstrações.
 
 
 # Conceitos de design patterns tirados de: design patterns com java - projeto orientado a objetos guiado por padrões | Casa do código
