@@ -1,4 +1,4 @@
-# Práticar TDD, relembrar conceitos básicos de orientação a objetos e aprender mais sobre design patterns.
+# Práticar testes unitários, relembrar conceitos básicos de orientação a objetos e aprender mais sobre design patterns.
     
     - Os códigos aqui escritos estão documentados em testes unitários.
 
