@@ -1,17 +1,17 @@
 # Práticar testes unitários, relembrar conceitos básicos de orientação a objetos e aprender mais sobre design patterns.
     
-    - Os códigos aqui escritos estão documentados em testes unitários.
+Os códigos aqui escritos estão documentados em testes unitários.
 
-    - E sim, esse arquivo vai quebrar o princípio da responsabilidade única, pois vai ficar enorme.
+E sim, esse arquivo vai quebrar o princípio da responsabilidade única, pois vai ficar enorme.
 
 
-# Resumo sobre composição, agregação e associação
+## Resumo sobre composição, agregação e associação
 
-    - Composição: é basicamente uma instância dentro de uma classe.
+Composição: é basicamente uma instância dentro de uma classe.
 
-    - Agregação: quando uma classe depende de "1 ou N" classes de mesmo tipo para executar determinada ação, geralmente passado por injeção de dependência.
+Agregação: quando uma classe depende de "1 ou N" classes de mesmo tipo para executar determinada ação, geralmente passado por injeção de dependência.
 
-    - Associação: é como a agregação, mas em vez de usar "1 ou N" classes de mesmo tipo, a associação utiliza apenas uma classe para executar determinada ação.
+Associação: é como a agregação, mas em vez de usar "1 ou N" classes de mesmo tipo, a associação utiliza apenas uma classe para executar determinada ação.
 
 
 # Resumo sobre S.O.L.I.D
